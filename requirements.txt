@@ -1,0 +1,9 @@
+aiogram
+asyncio
+faker
+pyrogram
+requests
+tgcrypto
+colorama
+pystyle
+cryptography
